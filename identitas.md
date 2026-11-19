@@ -4,6 +4,6 @@ Nama Kelompok: [Nama Kelompok]
 
 | No | Nama Lengkap | NIM | Akun GitHub |
 |:--:|--------------|-----|-------------|
-| 1 | NamaDepan NamaBelakang | 200510370311000 | @username1 |
-| 2 | NamaDepan NamaBelakang | 200510370311000 | @username2 |
-| 3 | NamaDepan NamaBelakang | 200510370311000 | @username3 |
+| 1 | Richa Cinta Sari | 202310370311262 | @richacintasari |
+| 2 | Wulan Dharma Putri | 202310370311279 | @wulandharmaa |
+| 3 | Selma Kadir Pelu | 202310370311297 | @selmapelu |
